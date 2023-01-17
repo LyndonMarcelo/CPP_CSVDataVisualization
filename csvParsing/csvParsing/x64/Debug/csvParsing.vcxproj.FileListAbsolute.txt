@@ -1,0 +1,4 @@
+C:\Users\lance\source\repos\csvParsing\csvParsing\x64\Debug\csvParsing.vcxproj.AssemblyReference.cache
+C:\Users\lance\source\repos\csvParsing\csvParsing\x64\Debug\csvParsing.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\lance\source\repos\csvParsing\csvParsing\x64\Debug\csvParsing.MyForm.resources
+C:\Users\lance\source\repos\csvParsing\csvParsing\x64\Debug\csvParsing.vcxproj.GenerateResource.cache

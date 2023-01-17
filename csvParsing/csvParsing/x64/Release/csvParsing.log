@@ -1,0 +1,71 @@
+﻿  MyForm.cpp
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(635,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(656,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(665,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(678,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(871,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(892,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(901,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(914,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(1071,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(1092,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(1101,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(1114,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(1278,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(1299,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(1308,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(1321,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(1326,24): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(1500,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(1521,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(1530,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(1543,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(1548,24): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(1724,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(1745,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(1754,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(1767,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(1772,24): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(1948,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(1969,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(1978,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(1991,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(1996,24): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(2171,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(2192,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(2201,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(2214,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(2219,24): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(2395,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(2416,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(2425,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(2438,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lance\source\repos\csvParsing\csvParsing\MyForm.h(2443,24): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  csvParsing.vcxproj -> C:\Users\lance\source\repos\csvParsing\x64\Release\csvParsing.exe
